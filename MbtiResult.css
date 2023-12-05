@@ -1,0 +1,82 @@
+.MbtiResult {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  justify-content: center;
+}
+
+.main {
+  min-width: 600px;
+}
+
+.main img {
+  max-height: 230px !important;
+  width: auto;
+  margin-top: 30px;
+}
+
+button {
+  margin: 30px !important;
+}
+
+.progress-bar {
+  color: rgb(0, 0, 0) !important;
+}
+
+.progress {
+  display: flex;
+  justify-content: space-between;
+  height: 30px !important;
+  margin: 0px 15px;
+  border-radius: 5px !important;
+}
+
+.top {
+  margin-top: 30px;
+}
+
+p {
+  font-size: 2rem;
+}
+
+.title {
+  font-size: 2rem;
+  margin: 0px;
+}
+.e {
+  background-color: rgb(255, 0, 247) !important;
+}
+
+.n {
+  background-color: rgb(75, 214, 168) !important;
+}
+
+.f {
+  background-color: rgb(165, 196, 25) !important;
+}
+
+.j {
+  background-color: rgb(255, 162, 0) !important;
+}
+
+.MuiStack-root {
+  justify-content: center;
+}
+
+.MuiBox-root {
+  padding: 80px 250px 0px 250px;
+}
+
+.type {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between !important;
+  margin: 6px 30px;
+}
+
+.typebottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 6px 30px 20px 30px;
+}

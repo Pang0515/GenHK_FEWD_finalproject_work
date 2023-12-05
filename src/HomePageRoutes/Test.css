@@ -1,0 +1,24 @@
+.Test {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+  max-height: 500px;
+}
+
+.qText {
+  grid-column: 1 / 3;
+}
+
+.option {
+  display: flex;
+  flex-direction: column;
+  grid-column: 1 / 3;
+  grid-row: 2 / 3;
+}
+
+.bottom {
+  grid-column: 1 / 3;
+  grid-row: 3 / 4;
+}

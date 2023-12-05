@@ -1,0 +1,33 @@
+.TypeResult{
+    min-height: 500px;
+    justify-content: center;
+}
+
+.type{
+    justify-content: center;
+}
+
+.typeResult-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.typeResult-right{
+    font-size: medium;
+}
+
+.typeResult-right .MuiBox-root {
+    width: 550px !important;
+    text-align: left;
+    justify-content: center;
+}
+
+.MuiTypography-root {
+    font-size: 20px !important;
+
+}
+
+.type img{
+    height: 400px;
+}

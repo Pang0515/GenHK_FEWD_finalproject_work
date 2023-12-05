@@ -1,0 +1,14 @@
+li button{
+    display: flex;
+    flex-direction: column;
+    margin: 5px !important;
+}
+
+.MuiButtonBase-root{
+    margin-bottom: 15px !important;
+}
+
+li img {
+    height: 100px;
+    width: auto;
+}

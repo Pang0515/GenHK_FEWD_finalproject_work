@@ -1,0 +1,38 @@
+.big{
+    min-height: 670px;
+}
+
+.MuiTabs-flexContainer .MuiButtonBase-root{
+    padding: 0;
+    margin: 5px !important;
+}
+
+
+.YourResult{
+    margin: 0;
+}
+
+.MuiBox-root{
+   padding: 0 !important;
+}
+
+.result{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.right{
+    font-size: medium;
+}
+
+.right .MuiBox-root{
+    width: 550px !important;
+    text-align: left;
+    justify-content: center;
+}
+
+.MuiTypography-root{
+    font-size: 20px !important;
+
+}

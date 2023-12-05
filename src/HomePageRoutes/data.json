@@ -1,0 +1,376 @@
+{
+  "typeList": [
+    {
+      "type": "INTJ",
+      "personality": "Architect",
+      "src": "",
+      "features": "An Architect (INTJ) is a person with the Introverted, Intuitive, Thinking, and Judging personality traits. These thoughtful tacticians love perfecting the details of life, applying creativity and rationality to everything they do. Their inner world is often a private, complex one.",
+      "strengths": [
+        "Rational",
+        "Informed",
+        "Independent",
+        "Determined",
+        "Curious",
+        "Original"
+      ],
+      "weaknesses": [
+        "Arrogant",
+        "Dismissive of Emotions",
+        "Overly Critical",
+        "Combative",
+        "Socially Clueless"
+      ],
+      "suitableCareer": "Architect personalities demand progress and evolution, and they love to explore new ideas. As their careers progress, they may be drawn to positions that allow them to influence a company’s or organization’s overall strategies. Many Architects pursue low-profile but influential roles as project managers, systems engineers, marketing strategists, systems analysts, management consultants, and military strategists. People with this personality type tend to be happiest in careers that allow them to innovate and experiment in ways both large and small. It’s no surprise, then, that jobs in engineering, research, science, and technology are common choices for Architects. But creative fields, from architecture to musical composition to video game design, can also gratify their innovative streak. And Architects’ relentless desire to get to the bottom of things can lead them to careers as auditors, cybersecurity specialists, or business analysts.",
+      "playlistId": "4acQIuCN9aeFBCpr9vubVd"
+    },
+    {
+      "type": "INTP",
+      "personality": "Logician",
+      "src": "",
+      "features": "A Logician (INTP) is someone with the Introverted, Intuitive, Thinking, and Prospecting personality traits. These flexible thinkers enjoy taking an unconventional approach to many aspects of life. They often seek out unlikely paths, mixing willingness to experiment with personal creativity.",
+      "strengths": [
+        "Analytical",
+        "Original",
+        "Open-Minded",
+        "Curious",
+        "Objective"
+      ],
+      "weaknesses": [
+        "Disconnected",
+        "Insensitive",
+        "Dissatisfied",
+        "Impatient",
+        "Perfectionistic"
+      ],
+      "suitableCareer": "With their curious spirits, Logicians can find the beauty in concepts that might make other personality types’ eyes glaze over. Logicians are well represented among mathematicians, analysts, researchers, and scientists, particularly in more abstract fields such as physics. Jobs in engineering and technology can also be a match, especially if they allow room for creativity – Logicians would much rather pioneer new approaches than spend their days implementing someone else’s work. That said, Logicians needn’t limit themselves to technical fields. Their talent for analysis and research can be invaluable in pretty much any line of work – and Logicians have the flexibility to shine even in careers that might not seem like an obvious match. Any job that allows these personalities to invent or experiment with new processes – from teaching to management to merchandising – can give them endless gratification.",
+      "playlistId": "55tWFSrWv5N132X6zHIO5v"
+    },
+    {
+      "type": "ENTJ",
+      "personality": "Commander",
+      "src": "",
+      "features": "A Commander (ENTJ) is someone with the Extraverted, Intuitive, Thinking, and Judging personality traits. They are decisive people who love momentum and accomplishment. They gather information to construct their creative visions but rarely hesitate for long before acting on them.",
+      "strengths": [
+        "Efficient",
+        "Energetic",
+        "Self-Confident",
+        "Strong-Willed",
+        "Strategic Thinkers",
+        "Charismatic and Inspiring"
+      ],
+      "weaknesses": [
+        "Stubborn and Dominant",
+        "Intolerant",
+        "Impatient",
+        "Arrogant",
+        "Poor Handling of Emotions",
+        "Cold and Ruthless"
+      ],
+      "suitableCareer": "Structure and order are key, and if someone gets sloppy, or holds things back with incompetence, laziness or inefficiency, Commanders will not hesitate to come down, hard. Commander personalities pursue their goals with singular vision, and have strict standards for themselves and others that are designed above all else to be effective. This makes Commanders excellent corporate strategists, and their objectivity and clarity of thought make them respected lawyers and judges. None of this could work if no one could understand what Commanders were thinking, and they have the good fortune of being clear and concise communicators, especially in person, making business administration a comfortable fit – so long as their tasks don’t stray too far into routine maintenance and upkeep. Commanders also have a thirst for knowledge, and they aren’t afraid to use a principle once they’ve grasped its underlying mechanisms. Combining this with their leadership makes Commanders trying, but effective, university professors.",
+      "playlistId": "2MiqxSFSTyJFBMBXnBHYH4"
+    },
+    {
+      "type": "ENTP",
+      "personality": "Debater",
+      "src": "",
+      "features": "A Debater (ENTP) is a person with the Extraverted, Intuitive, Thinking, and Prospecting personality traits. They tend to be bold and creative, deconstructing and rebuilding ideas with great mental agility. They pursue their goals vigorously despite any resistance they might encounter.",
+      "strengths": [
+        "Knowledgeable",
+        "Quick Thinkers",
+        "Original",
+        "Excellent Brainstormers",
+        "Charismatic",
+        "Energetic"
+      ],
+      "weaknesses": [
+        "Very Argumentative",
+        "Insensitive",
+        "Intolerant",
+        "Can Find It Difficult to Focus",
+        "Dislike Practical Matters"
+      ],
+      "suitableCareer": "The best careers reward intellectual competency and curiosity, allowing Debaters to utilize their never-ending flow of ideas productively by affording a degree of spontaneity in how they engage their intellectual pursuits. People with the Debater personality type value knowledge, rational thought and insight very highly, and they make brilliant lawyers, psychologists, systems analysts and scientists. It’s even possible for Debaters to thrive as sales representatives, as they rationalize purchase decisions that may otherwise seem discretionary – so long as their managers know to give them the space they need to work their magic.",
+      "playlistId": "1EzjgL6RF95f5QoZ7GhXUE"
+    },
+    {
+      "type": "ISTJ",
+      "personality": "Logistician",
+      "src": "",
+      "features": "A Logistician (ISTJ) is someone with the Introverted, Observant, Thinking, and Judging personality traits. These people tend to be reserved yet willful, with a rational outlook on life. They compose their actions carefully and carry them out with methodical purpose.",
+      "strengths": [
+        "Logistician",
+        "Strong-willed and Dutifu",
+        "Very Responsible",
+        "Calm and Practical",
+        "Create and Enforce Order",
+        "Jacks-of-all-trades"
+      ],
+      "weaknesses": [
+        "Stubborn",
+        "Insensitive ",
+        "Always by the Book",
+        "Judgmental",
+        "Often Unreasonably Blame Themselves"
+      ],
+      "suitableCareer": "The facts support this, as the most common careers among people with the Logistician personality type revolve around institutions of respected tradition, authority, security, and established consistency. Careers as military officers, lawyers, judges, police officers and detectives are all very popular among Logisticians. This makes sense, as they not only offer the stability that Logisticians seek, but are in line with their principles and conservatism, establishing clear societal roles. Logisticians of course aren’t limited to these organizations – there are many other roles that utilize their reliability, objectivity and sharp eyes. When facts and logic are out of place, Logistician personalities swoop in as the accountants, auditors, data analysts, financial managers, business administrators and even doctors that identify, report and correct the issues at hand.",
+      "playlistId": "4qhJjuTNmmAwRoFAER1Wxr"
+    },
+    {
+      "type": "ISFJ",
+      "personality": "Defender",
+      "src": "",
+      "features": "A Defender (ISFJ) is someone with the Introverted, Observant, Feeling, and Judging personality traits. These people tend to be warm and unassuming in their own steady way. They’re efficient and responsible, giving careful attention to practical details in their daily lives.",
+      "strengths": [
+        "Supportive",
+        "Reliable",
+        "Observant",
+        "Enthusiastic",
+        "Hardworking",
+        "Good Practical Skills"
+      ],
+      "weaknesses": [
+        "Overly Humble",
+        "Taking Things Personally",
+        "Repressing Their Feelings",
+        "Overcommitted",
+        "Reluctant to Change",
+        "Too Altruistic"
+      ],
+      "suitableCareer": "With their natural humility, Defender personalities tend to feel especially fulfilled by careers that allow them to facilitate others’ growth, healing, and progress. Teaching is a prime example of this, as are speech therapy, occupational therapy, physical therapy, medicine, and social work. Defenders’ patience and ability to stay present in the moment enable them to be incredibly attuned to the needs of the people they are serving. No matter what it says on their business card, many Defenders approach their work with an eye toward helping others in practical ways. People with this personality type tend to excel at customer service, with a particular gift for listening to concerns, calming frustrations, and seeing things through to a clear resolution. These skills can also translate well into roles in human resources, IT support, hospitality, retail, office administration, library sciences, and pretty much any job that involves fielding and helping answer people’s questions.",
+      "playlistId": "0lYllEZHsSAuVE0bBsYTvA"
+    },
+    {
+      "type": "ESTJ",
+      "personality": "Executive",
+      "src": "",
+      "features": "An Executive (ESTJ) is someone with the Extraverted, Observant, Thinking, and Judging personality traits. They possess great fortitude, emphatically following their own sensible judgment. They often serve as a stabilizing force among others, able to offer solid direction amid adversity.",
+      "strengths": [
+        "Dedicated",
+        "Strong-willed",
+        "Direct and Honest",
+        "Loyal, Patient and Reliable",
+        "Enjoy Creating Order",
+        "Excellent Organizers"
+      ],
+      "weaknesses": [
+        "Inflexible and Stubborn",
+        "Uncomfortable with Unconventional Situations",
+        "Judgmental",
+        "Too Focused on Social Status",
+        "Difficult to Relax",
+        "Difficulty Expressing Emotion"
+      ],
+      "suitableCareer": "Executives’ sense of loyalty results in them staying with a single employer as long as possible, and their reverence for established institutions often leads to work with well-respected organizations. Law enforcement, military service, hospitals and prominent legal firms are all able to recognize Executives’ long years of service. Also fearsome leaders, Executives loathe disorganization, ineptitude, laziness and especially dishonesty, and when these values are crossed, Executive personalities do not hesitate to let their disapproval show. So long as everyone plays by the rules, Executives are incredibly efficient, their love of structure and thoroughness leaving a record of accurate, complete work that is on time and on budget. Executives are natural auditors, financial officers and business administrators, and any such and similar roles are excellent choices for them.",
+      "playlistId": "4vZIQ9H9u0XORVSTPk04T4"
+    },
+    {
+      "type": "ESFJ",
+      "personality": "Consul",
+      "src": "",
+      "features": "A Consul (ESFJ) is a person with the Extraverted, Observant, Feeling, and Judging personality traits. They are attentive and people-focused, and they enjoy taking part in their social community. Their achievements are guided by decisive values, and they willingly offer guidance to others.",
+      "strengths": [
+        "Strong Practical Skills",
+        "Strong Sense of Duty",
+        "Very Loyal",
+        "Sensitive and Warm",
+        "Good at Connecting with Others"
+      ],
+      "weaknesses": [
+        "Worried about Their Social Status",
+        "Inflexible",
+        "Reluctant to Innovate or Improvise",
+        "Vulnerable to Criticism",
+        "Often Too Needy",
+        "Too Selfless"
+      ],
+      "suitableCareer": "Careers as administrators are a natural fit, allowing Consuls to organize not just an environment, but the people in it. Their practical skills combine well with their dependability, making Consul personalities surprisingly good accountants – though they often prefer to be personal accountants, helping people and interacting with them directly, instead of corporate accountants crunching numbers in some back room. Purely analytical careers are often too dull for Consuls though – they need human interaction and emotional feedback to be truly satisfied in their line of work. Good listeners and enthusiastic team members, people with the Consul personality type are excellent providers of medical care and social work. Teaching is another great option, as Consuls are comfortable with authority, but are supportive and friendly enough to keep that authority from feeling overbearing.",
+      "playlistId": "6PsawaiOyvzoNX6h6B8DUE"
+    },
+    {
+      "type": "INFJ",
+      "personality": "Advocate",
+      "src": "",
+      "features": "An Advocate (INFJ) is someone with the Introverted, Intuitive, Feeling, and Judging personality traits. They tend to approach life with deep thoughtfulness and imagination. Their inner vision, personal values, and a quiet, principled version of humanism guide them in all things.",
+      "strengths": [
+        "Creative",
+        "Insightful",
+        "Principled",
+        "Passionate",
+        "Altruistic"
+      ],
+      "weaknesses": [
+        "Sensitive to Criticism",
+        "Reluctant to Open Up",
+        "Perfectionistic",
+        "Avoiding the Ordinary",
+        "Prone to Burnout"
+      ],
+      "suitableCareer": "For Advocate personalities, jobs that involve helping and connecting with people can be deeply satisfying. It’s no surprise, then, that many Advocates gravitate toward work as counselors, therapists, psychologists, social workers, teachers, yoga instructors, and spiritual leaders. They may enjoy service industry positions that allow them to interact directly and build genuine relationships with their customers. Careers in health care can also be rewarding options, including occupations such as nursing, physical or occupational therapy, medicine, nutrition, or more holistic paths such as acupuncture. Many Advocates are passionate communicators. This explains why they are often drawn to careers in writing, creating many popular books, blogs, stories, video games, and screenplays. For people with this personality type, the opportunity to tell stories for a living can be nothing short of a dream come true. Other Advocates might pursue music, photography, design, illustration, or fine art. Even if these artistic pursuits aren’t their primary job, many Advocates find that creative side hustles offer a much-needed outlet for the themes and ideas that occupy their imaginations.",
+      "playlistId": "7AKVZtpDloU0tsf8f26gKN"
+    },
+    {
+      "type": "INFP",
+      "personality": "Mediator",
+      "src": "",
+      "features": "A Mediator (INFP) is someone who possesses the Introverted, Intuitive, Feeling, and Prospecting personality traits. These rare personality types tend to be quiet, open-minded, and imaginative, and they apply a caring and creative approach to everything they do.",
+      "strengths": [
+        "Empathetic",
+        "Generous",
+        "Open-Minded",
+        "Creative",
+        "Passionate",
+        "Idealistic"
+      ],
+      "weaknesses": [
+        "Unrealistic",
+        "Self-Isolating",
+        "Unfocused",
+        "Emotionally Vulnerable",
+        "Desperate to Please",
+        "Self-Critical"
+      ],
+      "suitableCareer": "Certain careers and vocations seem to hold a special allure for these personalities. With their curiosity and their love of self-expression, many Mediators dream of becoming writers. They might write novels, seek out interesting freelance niches, or even find themselves doing communications in a corporate field or for a nonprofit organization. Richly imaginative, Mediators can infuse even the driest of fundraising or marketing materials with new life. Whatever they do, Mediators want to feel that their work is helping others. It’s not surprising, then, that many people with this personality type choose careers that are focused on service, such as counseling, psychology, teaching, health care, social work, massage therapy, or physical rehabilitation. For these caring, supportive personalities, few things are more meaningful than seeing their work help change someone’s life for the better.",
+      "playlistId": "11gIBNBNUbpiM8WwKrMp8i"
+    },
+    {
+      "type": "ENFJ",
+      "personality": "Protagonist",
+      "src": "",
+      "features": "A Protagonist (ENFJ) is a person with the Extraverted, Intuitive, Feeling, and Judging personality traits. These warm, forthright types love helping others, and they tend to have strong ideas and values. They back their perspective with the creative energy to achieve their goals.",
+      "strengths": [
+        "Receptive",
+        "Reliable",
+        "Passionate",
+        "Altruistic",
+        "Charismatic"
+      ],
+      "weaknesses": [
+        "Unrealistic",
+        "Overly Idealistic",
+        "Condescending",
+        "Intense",
+        "Overly Empathetic"
+      ],
+      "suitableCareer": "Thanks to their emotional intelligence and social skills, Protagonists can excel in nearly any people-oriented field, such as human resources, event management, recruiting, or public relations. That said, they tend to feel especially motivated in positions where they can guide others to learn, grow, and become more independent. Many people with this personality type gravitate toward careers with an altruistic bent, such as social work, teaching, counseling, coaching, health care, or public interest law. Rather than fading into the background, Protagonists are known for their leadership abilities, and they often find themselves in positions of influence. These personalities can be found in public office and at the helm of all sorts of organizations – from nonprofits and religious groups to scrappy start-ups and corporate empires. They may also find themselves in jobs as consultants, advisors, and managers. Wherever they work, Protagonists rarely lose sight of their core mission: to improve people’s lives. They intuitively pick up on the needs of their clients or customers, and then they draw on their creativity to meet these needs in innovative, unexpected ways. As a result, these types are able to bring sincerity, integrity, and even idealism to jobs in sales, customer service, marketing, advertising, and product development.",
+      "playlistId": "4gtLRPzwpUXXrYi3uIiMgP"
+    },
+    {
+      "type": "ENFP",
+      "personality": "Campaigner",
+      "src": "",
+      "features": "A Campaigner (ENFP) is someone with the Extraverted, Intuitive, Feeling, and Prospecting personality traits. These people tend to embrace big ideas and actions that reflect their sense of hope and goodwill toward others. Their vibrant energy can flow in many directions.",
+      "strengths": [
+        "Curious",
+        "Perceptive",
+        "Enthusiastic",
+        "Excellent Communicators",
+        "Festive",
+        "Good-Natured"
+      ],
+      "weaknesses": [
+        "People-Pleasing",
+        "Unfocused",
+        "Disorganized",
+        "Overly Accommodating",
+        "Overly Optimistic",
+        "Restless"
+      ],
+      "suitableCareer": "Campaigners are more likely to be fulfilled by work that meets certain criteria. First, they need to believe that what they do on a daily basis aligns with their core values. Second, most people with this personality type feel best in jobs that use – and build on – their talents. This explains why many Campaigners are drawn to careers in nonprofits, public service, counseling, education, customer or public relations, hospitality, media and entertainment, and the service industry. Jobs in social media and communications can be an excellent fit for them as well, allowing them to balance creativity with a sense of human connection. Campaigners may also gravitate toward scientific and technical fields where they can have a positive impact, such as human health and environmental science.",
+      "playlistId": "5ffpGuV2S0xcmeDyCOr2MQ"
+    },
+    {
+      "type": "ISTP",
+      "personality": "Virtuoso",
+      "src": "",
+      "features": "A Virtuoso (ISTP) is someone with the Introverted, Observant, Thinking, and Prospecting personality traits. They tend to have an individualistic mindset, pursuing goals without needing much external connection. They engage in life with inquisitiveness and personal skill, varying their approach as needed.",
+      "strengths": [
+        "Optimistic and Energetic",
+        "Creative and Practical",
+        "Spontaneous and Rational",
+        "Know How to Prioritize",
+        "Great in a Crisis",
+        "Relaxed"
+      ],
+      "weaknesses": [
+        "Stubborn",
+        "Insensitive",
+        "Private and Reserved",
+        "Easily Bored",
+        "Dislike Commitment",
+        "Risky Behavior"
+      ],
+      "suitableCareer": "Virtuosos are born problem-solvers with an unwavering focus on practical solutions (though perhaps not always solutions to practical problems). No other type is quite as fascinated by how things work, how tools can be used, and how facts can be put together to create immediate and satisfying results. This combination of curiosity and hands-on vigor make people with the Virtuoso personality type excellent mechanics, engineers, graphic designers, and forensic scientists. “Practical” is the word of the day. But it’s not the practicality of routine administration that Virtuosos crave – they need variety and action, perhaps even a little adrenaline in their work. Highly structured environments leave Virtuoso personalities bored and tired. Jobs that focus on crisis response, such as firefighters, paramedics, detectives, pilots and police officers seem made for Virtuosos.",
+      "playlistId": "1o7ufSKxAiLyiiyJwtx6ij"
+    },
+    {
+      "type": "ISFP",
+      "personality": "Adventurer",
+      "src": "",
+      "features": "An Adventurer (ISFP) is a person with the Introverted, Observant, Feeling, and Prospecting personality traits. They tend to have open minds, approaching life, new experiences, and people with grounded warmth. Their ability to stay in the moment helps them uncover exciting potentials.",
+      "strengths": [
+        "Charming",
+        "Sensitive to Others",
+        "Imaginative",
+        "Passionate",
+        "Curious",
+        "Artistic"
+      ],
+      "weaknesses": [
+        "Fiercely Independent",
+        "Unpredictable",
+        "Easily Stressed",
+        "Overly Competitive",
+        "Fluctuating Self-Esteem"
+      ],
+      "suitableCareer": "Adventurers crave a tangible outlet for their imagination, a chance to express themselves artistically. People with the Adventurer personality type are passionate experimenters, and whether they’re aware of it or not, they are renowned trendsetters. With their unique perspective and simple desire to be themselves, Adventurers are natural artists, musicians and photographers, as well as designers of all stripes. Setting up shop on websites like Etsy is far more alluring to Adventurers than the confines of 9-5 administrative work in some fluorescent cubicle.",
+      "playlistId": "3BFf4l51YQqpDxg10f4ZCy"
+    },
+    {
+      "type": "ESTP",
+      "personality": "Entrepreneur",
+      "src": "",
+      "features": "An Entrepreneur (ESTP) is someone with the Extraverted, Observant, Thinking, and Prospecting personality traits. They tend to be energetic and action-oriented, deftly navigating whatever is in front of them. They love uncovering life’s opportunities, whether socializing with others or in more personal pursuits.",
+      "strengths": [
+        "Bold",
+        "Rational and Practical",
+        "Original",
+        "Perceptive",
+        "Direct",
+        "Sociable"
+      ],
+      "weaknesses": [
+        "Insensitive",
+        "Impatient",
+        "Risk-prone",
+        "Unstructured",
+        "May Miss the Bigger Picture",
+        "Defiant"
+      ],
+      "suitableCareer": " People with this personality type live life on their own terms, and this makes them brilliant business people and freelancers. These roles also allow them to delegate the more tedious aspects of work, the accounting, meticulous research and so forth, to those better suited. Entrepreneurs are curious, energetic people with a taste for action. There are those who analyze and manage the logistics of public safety resource distribution, and there are those who drive the ambulances, patrol the streets, and save lives with their own two hands – Entrepreneur personalities are the latter. They are highly observant yet impatient, enabling them to take in the whole of a situation at a glance, and act. Any emergency response role is great for Entrepreneurs, whether it be as paramedics, police officers, or soldiers.",
+      "playlistId": "52Nr2jMtUOgmHKAFPLQ6Jb"
+    },
+    {
+      "type": "ESFP",
+      "personality": "Entertainer",
+      "src": "",
+      "features": "An Entertainer (ESFP) is a person with the Extraverted, Observant, Feeling, and Prospecting personality traits. These people love vibrant experiences, engaging in life eagerly and taking pleasure in discovering the unknown. They can be very social, often encouraging others into shared activities.",
+      "strengths": [
+        "Bold",
+        "Original",
+        "Aesthetics and Showmanship",
+        "Practical",
+        "Observant",
+        "Excellent People Skills"
+      ],
+      "weaknesses": [
+        "Sensitive",
+        "Conflict-Averse",
+        "Easily Bored",
+        "Poor Long-Term Planners",
+        "Unfocused"
+      ],
+      "suitableCareer": "Just about any career that focuses on working with others is a good fit, and is even essential for Entertainers to be happy and productive. Entertainer personalities are natural event planners, sales representatives, trip planners, and tour guides. Entertainers genuinely enjoy spending time with others and getting to know them, and have a knack for making people happy, even in the most frustrating situations. A good challenge is always appreciated by Entertainer personalities, and they make wonderful and inspiring counselors, social workers, personal coaches, and consultants who improve employee or customer satisfaction. With their ability to respond with resourcefulness and passion when their help is badly needed, Entertainers make brilliant medical professionals, especially as EMTs, paramedics, and nurses. ",
+      "playlistId": "6DjPVCftL0PANfY69Wh7ux"
+    }
+  ]
+}
